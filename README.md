@@ -1,1 +1,1 @@
-# ADDC
+Splunk Integration Lab
